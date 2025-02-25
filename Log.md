@@ -7,3 +7,6 @@ myself with the process and hopefully build a daily habit.
 
 ## 24-02-2025
 Today is Monday and I woke up at 4am because I couldn't sleep anymore, so I decided to continue de 100 Day Python Course.
+
+## 25-02-2025
+I didn't have time to continue the course today because I had my medical visit but I still wanted to get into the habit of doing something with Git everyday. Tomorrow I promise I'll do some coding.
