@@ -10,3 +10,6 @@ Today is Monday and I woke up at 4am because I couldn't sleep anymore, so I deci
 
 ## 25-02-2025
 I didn't have time to continue the course today because I had my medical visit but I still wanted to get into the habit of doing something with Git everyday. Tomorrow I promise I'll do some coding.
+
+## 26-02-2025
+Today I worked through Day 3 of the 100 Day Python Course. I learned about If Else statements.
