@@ -13,3 +13,6 @@ I didn't have time to continue the course today because I had my medical visit b
 
 ## 26-02-2025
 Today I worked through Day 3 of the 100 Day Python Course. I learned about If Else statements.
+
+## 27-02-2025
+No Coding today ! Kairihnas birthday
