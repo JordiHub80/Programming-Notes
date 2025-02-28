@@ -16,3 +16,6 @@ Today I worked through Day 3 of the 100 Day Python Course. I learned about If El
 
 ## 27-02-2025
 No Coding today ! Kairihnas birthday
+
+## 28-02-2025
+No coding again, sorry, Kristen's birthday !
