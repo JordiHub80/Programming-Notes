@@ -19,3 +19,6 @@ No Coding today ! Kairihnas birthday
 
 ## 28-02-2025
 No coding again, sorry, Kristen's birthday !
+
+## 01-03-2025
+It's March ! No code again I'm sorry, I was hungover
